@@ -228,7 +228,7 @@ Read or watch:
 * Your function must return a pointer to the new root node of the tree once rotated
 > gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 104-binary_tree_rotate_right.c 104-main.c 0-binary_tree_node.c -o 104-rotr | ./104-rotr
 
-## 24. Is BST  []
+## 24. Is BST  [110-binary_tree_is_bst.c]
   Write a function that checks if a binary tree is a valid [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
 * Prototype: int binary_tree_is_bst(const binary_tree_t *tree);
 * Where tree is a pointer to the root node of the tree to check
