@@ -319,7 +319,7 @@ Properties of an AVL Tree:
 Your files 14-binary_tree_balance.c, 103-binary_tree_rotate_left.c, 104-binary_tree_rotate_right.c and 0-binary_tree_node.c will be compiled during the correction
 > gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 121-avl_insert.c 121-main.c 14-binary_tree_balance.c 103-binary_tree_rotate_left.c 104-binary_tree_rotate_right.c 0-binary_tree_node.c -o 121-avl_insert | ./121-avl_insert
 
-## [32. AVL - Array to AVL}(./122-array_to_avl.c) 
+## [32. AVL - Array to AVL](./122-array_to_avl.c) 
   Write a function that builds an AVL tree from an array
 * Prototype: [avl_t *array_to_avl(int *array, size_t size);]
 * Where array is a pointer to the first element of the array to be converted
